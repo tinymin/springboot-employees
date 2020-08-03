@@ -4,4 +4,4 @@
 
 - Spring Boot
 - MyBatis
-- 대용량 DB 처리
+- 대용량 처리를 시도(?) 해보자
