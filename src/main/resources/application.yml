@@ -1,4 +1,5 @@
 server:
+  port: 8484
   tomcat:
     uri-encoding: UTF-8
   servlet:
