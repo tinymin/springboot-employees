@@ -7,6 +7,6 @@
         SELECT dept_no
               ,dept_name
           FROM departments
-         WHERE dept_no = #{dept_no}
+         WHERE dept_no = #{deptNo}
     </select>
 </mapper>
