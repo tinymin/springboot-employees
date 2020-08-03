@@ -21,5 +21,9 @@ mybatis:
 logging:
   level:
     root: INFO
+    jdbc.audit: OFF
+    jdbc.connection: OFF
+    jdbc.resultset: OFF
+    jdbc.sqlonly: OFF
 
 
